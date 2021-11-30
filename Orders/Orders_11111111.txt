@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,Zoe,TX,4.45,Tile,1.0,3.5,4.15,3.5,4.15,0.340425,7.990425,1111-11-11
